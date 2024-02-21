@@ -1,0 +1,92 @@
+/* .active:focus{
+    color:rgb(237, 233, 233);
+    background-color: #087bed;
+} */
+/* Apply styles to the active element */
+NavLink.active {
+    background-color: #abcdef; /* Replace with your desired background color */
+    color: #ffffff; /* Replace with your desired text color */
+  }
+  
+  /* Apply styles to the first element in the sidebar after login */
+ 
+
+/* .pending {
+    display: flex;
+    color: #1b1a1a;
+    margin: 10px;
+    padding: 15px 15px;
+    gap: 15px;
+    transition: all 0.5s;
+    border-bottom: 10px;
+    align-items: center;
+    text-decoration: none;
+    width: 170px;
+    height: 20px;
+  } */
+   
+  /* .pending:hover {
+    background: rgb(231, 232, 232);
+    border-radius: 4px 4px;
+    color: #30302f;
+    transition: all 0.5s;
+    width: 170px;
+    height: 20px;
+  }  */
+   /* .active {
+    background: rgb(90, 197, 250);
+    border-radius: 4px 4px;
+    box-shadow: 200px;
+    color: #ffffff;
+    width: 170px;
+    height: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(6, 6, 6, 0.25);
+  }  */
+  
+  
+  /* .icon,
+  .link_text {
+    font-size: 20px;
+  }
+  
+  .icon {
+    padding-left: 35px;
+  } */
+  
+  /* .backgroundcolor { */
+    /* background-color: rgb(241, 248, 251); */
+    /* background-color: #e5ebee; */
+  /* } */
+  /* .navbar_design {
+    box-shadow: 0px 0px 10px 0px rgba(6, 6, 6, 0.3);
+  } */
+  /* .main_bg_color {
+    background: rgb(90, 197, 250);
+  } */
+  
+  /* .main_name {
+    text-shadow: rgb(59, 59, 59) 3px 0 4px;
+    letter-spacing: 2%;
+  } */
+  
+  /* .candidate_name {
+    color: #ffffff;
+    font-weight: 5;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    text-shadow: rgb(34, 11, 136) 1px 0 1px;
+    letter-spacing: 0.5px;
+  } */
+  
+  /* .static_color {
+    background: rgb(90, 197, 250);
+  } */
+  /* .h5 { */
+    /* font-weight: bolder; */
+    /* margin-top: 18px; */
+  /* } */
+  /* .css-1t8ijob-MuiGrid-root::-webkit-scrollbar {
+      display: none;
+    } */
+  /* .moved{
+    transform: translate(10%);
+  } */
